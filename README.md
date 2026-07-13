@@ -88,18 +88,10 @@ Manipulação de banco SQLite
 Segurança básica de autenticação
 
 👥 Integrantes
-Arthur Ribeiro Ferreira
-Diogo Ribeiro Rodrigues Brauna
+Arthur Ribeiro Ferreira,
+Diogo Ribeiro Rodrigues Brauna,
 Raiane dos Santos de Oliveira
-📚 Observações
 
-Projeto desenvolvido para fins acadêmicos, com foco na prática de:
-
-Lógica de programação
-Programação em Python
-Banco de dados SQLite
-Segurança básica de autenticação
-Organização e estruturação de sistemas
 ## 📚 Observações
 
 Projeto desenvolvido para fins acadêmicos, com foco na prática de lógica de programação, organização de código e utilização de banco de dados com Python.
