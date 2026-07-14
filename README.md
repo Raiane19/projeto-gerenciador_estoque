@@ -64,7 +64,7 @@ GitHub
 VS Code
 ▶️ Como Executar
 1️⃣ Clonar o repositório
-git clone https://github.com/Raianemon19/projeto-gerenciador_estoque
+git clone https://github.com/Raiane19/projeto-gerenciador_estoque
 2️⃣ Acessar a pasta do projeto
 cd projeto-gerenciador_estoque
 3️⃣ Executar o sistema
